@@ -12,7 +12,7 @@ I'm a passionate Big Data developer with a primary focus on Big Data technologie
 ### Professional Experience
 <p align="left">
   <a href="https://deloitte.com" target="_blank" rel="noreferrer"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/1f/c1/e71fc1c5-6ba7-d659-b7b3-9ab082b05a91/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg" width="36" height="36" alt="Deloitte" /></a>
-  <a href="https://ubs.com" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_99/3_ubs-icon.ddd9c9cee3.jpg" width="36" height="36" alt="UBS" /></a>
+  <a href="https://ubs.com" target="_blank" rel="noreferrer"><img src="https://www.mmaglobal.com/files/logos/ubs.png" width="36" height="36" alt="UBS" /></a>
 </p>
 
 
@@ -43,4 +43,3 @@ I'm a passionate Big Data developer with a primary focus on Big Data technologie
 
 <b>My GitHub Stats</b><br>
 <a href="http://www.github.com/williamdphillips"><img src="https://github-readme-stats.vercel.app/api?username=williamdphillips&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="williamdphillips's GitHub stats" /></a>
-<a href="http://www.github.com/williamdphillips"><img src="https://activity-graph.herokuapp.com/graph?username=williamdphillips&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
